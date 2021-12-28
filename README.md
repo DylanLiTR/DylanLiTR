@@ -5,8 +5,8 @@ Thanks for checking out my github! I'm a freshman computer science student at th
 #### ✍ Recent Projects
 
 * Rapidtype, a simple Discord bot for testing typing speed using quotes
+* Spotify music recommender in Python
 
 #### 🧠 What I'm Learning
 
-* C++ and/or C#
-* Game Development
+* C++ (Game Development)
