@@ -1,4 +1,4 @@
-## ✌️ Hello, I'm Dylan Li
+## ✌️ Hi, I'm Dylan
 
 Thanks for checking out my github! I'm a freshman computer science student at the University of Waterloo.
 
@@ -9,4 +9,5 @@ Thanks for checking out my github! I'm a freshman computer science student at th
 
 #### 🧠 What I'm Learning
 
-* C++ (Game Development)
+* C++
+* Unity
