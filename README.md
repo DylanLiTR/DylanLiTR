@@ -4,7 +4,7 @@ Thanks for checking out my github! I'm a computer science student at the Univers
 
 #### ✍ Recent Projects
 
-* Flappy Golf 3D
+* Inconvenience Store
 
 #### 🧠 What I'm Learning
 
