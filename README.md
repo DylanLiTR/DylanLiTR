@@ -4,7 +4,8 @@ Thanks for checking out my github! I'm a computer science student at the Univers
 
 #### ✍ Recent Projects
 
-* Inconvenience Store
+* Spotify Playlist Maker (Python Web App)
+* Flappy Golf 3D (Multiplayer Game)
 
 #### 🧠 What I'm Learning
 
