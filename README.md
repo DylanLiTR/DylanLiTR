@@ -9,5 +9,7 @@ Thanks for checking out my github! I'm a computer science student at the Univers
 
 #### 🧠 What I'm Learning
 
+* Lua
+* Blockchain/Web3
 * Unity
 * C++
