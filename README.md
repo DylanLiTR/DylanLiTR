@@ -4,6 +4,7 @@ Thanks for checking out my github! I'm a computer science student at the Univers
 
 #### ✍ Recent Projects
 
+* V-Lance - ETHGlobal Waterloo 2023 (Web3 DApp)
 * Spotify Playlist Maker (Python Web App)
 * Flappy Golf 3D (Multiplayer Game)
 
