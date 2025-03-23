@@ -1,16 +1,13 @@
 ## ✌️ Hi, I'm Dylan
 
-Thanks for checking out my github! I'm a computer science student at the University of Waterloo.
+Thanks for checking out my github! I'm a computer science student at the University of Waterloo and previous intern at Digital Extremes, Huawei, and CIBC.
 
 #### ✍ Recent Projects
 
-* V-Lance - ETHGlobal Waterloo 2023 (Web3 DApp)
-* Spotify Playlist Maker (Python Web App)
-* Flappy Golf 3D (Multiplayer Game)
+* Personal Website
 
 #### 🧠 What I'm Learning
 
-* Lua
-* Blockchain/Web3
-* Unity
+* AI/ML
+* Godot
 * C++
